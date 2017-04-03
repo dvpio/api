@@ -1,8 +1,7 @@
 <!--- Provide a general summary of the issue in the Title above -->
-<!--- If you're suggesting a change/improvement, prefix the title with "Feature request:" -->
-
 * API name: <!--- Minifier, Cronjob etc... -->
 
+<!--- You can delete all unused blocks -->
 ## Expected Behavior
 <!--- If you're describing a bug, tell us what should happen -->
 <!--- If you're suggesting a change/improvement, tell us how it should work -->
@@ -43,3 +42,5 @@
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 <!--- Precise if you use our API with this GitHub account or another -->
+
+<hr /><p align="center"><i>comments like +1 me too will be deleted</i><br><b>&#x25BC;Vote with reaction&#x25BC;</b></p>
